@@ -1,4 +1,4 @@
-### Samsung MultiCampus Java Project 🌱
+### 자바의 정석 exercises 🌱
 
 <!--
 **hyeyoung-dev/hyeyoung-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[javaProject.pdf](https://github.com/hyeyoung-dev/Study-Java/files/7861425/javaProject.pdf)
